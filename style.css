@@ -1,93 +1,76 @@
-/* @import url(https://fonts.googleapis.com/css?family=Autour One); */
-/*    <link href='//fonts.googleapis.com/css?family=Autour One' rel='stylesheet'> */
-
-body{
-    margin: 0 auto;
-    background:#ffbf80;
- /   font-family:Georgia, Palatino, serif;
-    font-family: 'Autour One';font-size: 22px;
-    color: #006400; /* dark gray not black, color of base font */
-    max-width: 800px;
-    padding: 30px;
-    font-size: 18px;
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div.container {
+    width: 100%;
+    border: 1px solid gray;
 }
 
-p   {
-    line-height: 150%;
-    font-weight: 400;
-    color : #0B5345  
+header, footer {
+    padding: 1em;
+    color: #ffbf80;
+    background-color: #006400;
+    clear: left;
+    text-align: center;
 }
 
-h1, h2, h3, h4 {
-    font-weight: 500;
-    padding: 0;
-}
-
-h1 {
-    margin-bottom: 10px;
-    font-size:300%;
-    font-variant:small-caps;
-	color: #0B5345  
-}
-
-h3 {
-    font-size:150%;
-    margin-bottom: 25px;
-	color: ##117864  
-}
-
-/*
-The following styles pertain to the way that hyperlinks are styled, 
-including differences between active and visited links.
-*/
-a {
-    color: blue;
+nav {
+    float: left;
+    max-width: 160px;
     margin: 0;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
     padding: 0;
-    vertical-align: baseline;
+}
+   
+nav ul a {
+    text-decoration: none;
 }
 
-a:visited {
-    color: black;
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
 }
+</style>
+</head>
+<body>
 
-a:hover {
-  color: white;
-	background-color: black;
-}
+<div class="container">
 
-/* 
-Lists come in several types, ordered (or numbered) and unordered (bullets).  You can 
-use styles to change the appearance of the bullets, the spacing, margins etc. 
-*/
-ul, ol {
-    padding: 0;
-    margin: 0px 0px 0px 50px;
-}
-ul {
-    list-style-type: square;
-    list-style-position: inside;
+<header>
+   <h1>Shane V. Sedlemyer</h1>
+</header>
+  
+<nav>
+  <ul>
+    <li><a href="#"></a>Research Interests</li>
+    <li><a href="#">Show Gallery</a></li>
+    <li><a href="#">Projects</a></li>
+  </ul>
+</nav>
 
-}
+<article>
+  <h1>Research Interests</h1>
+  <p>  <ul>
+    
+    <li><a href="theatre&games.html"> Theatre and Video Games Studies</a></li>
+    <li> 20th Century Dramatic Literature </li>
+    <li> Digital Humanities </li>
+    <li> Musical Theatre Studies </li>
+  </ul></p>
+  
+</article>
 
-li {
-     line-height:150%    
-}
-li ul, li ul {
-    margin-left: 24px;
-}
+<footer>Copyright &copy; W3Schools.com</footer>
 
-blockquote {
-    border-left:.5em solid #eee;
-    padding: 0 1em;
-    margin-left:200;
-	margin-right:20;
+</div>
 
-}
-
-hr {
-/    width: 540px;
-    text-align: left;
-    margin: 0 auto 0 0;
-    color: #999;
+</body>
+</html>
 }
