@@ -3,10 +3,10 @@
 
 body{
     margin: 0 auto;
-    background:#ffb366;
+    background:##a6a6a6;
  /   font-family:Georgia, Palatino, serif;
     font-family: 'Autour One';font-size: 22px;
-    color: #004d00; /* dark gray not black, color of base font */
+    color: #990033; /* dark gray not black, color of base font */
     max-width: 800px;
     padding: 30px;
     font-size: 18px;
