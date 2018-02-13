@@ -1,0 +1,84 @@
+<h2>Theatrical Experience </h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Role</th>
+    <th>Show</th> 
+    <th>Location</th>
+    <th>Year</th>
+  </tr>
+  <tr>
+    <td>Actor</td>
+    <td>The Addams Family</td> 
+    <td>Cresson Lake Playhouse</td>
+    <td>2014</td>
+  </tr>
+  <tr>
+    <td>Actor (Uncle Festor)</td>
+    <td>The Addams Family</td> 
+    <td>Cresson Lake Playhouse</td>
+    <td>2014</td>
+  </tr>
+   <tr>
+    <td>Stage Manager</td>
+    <td>West Side Story</td> 
+    <td>Cresson Lake Playhouse</td>
+    <td>2014</td>
+  </tr>
+    <tr>
+    <td>Sound Technician</td>
+    <td>9 to 5</td> 
+    <td>Cresson Lake Playhouse</td>
+    <td>2014</td>
+  </tr>
+    <tr>
+    <td>Director</td>
+    <td>Dog Sees God</td> 
+    <td>Penn State</td>
+    <td>2013</td>
+  </tr>
+    <tr>
+    <td>Sound Designer</td>
+    <td>Dog Sees God</td> 
+    <td>Penn State</td>
+    <td>2013</td>
+  </tr>
+      <tr>
+    <td>Dramaturg</td>
+    <td>Spring Awakening</td> 
+    <td>Penn State</td>
+    <td>2013</td>
+  </tr>
+      <tr>
+    <td>Property Master</td>
+    <td>Picnic</td> 
+    <td>Penn State</td>
+    <td>2012</td>
+  </tr>
+    <tr>
+    <td>Actor (Hysterium)</td>
+    <td>A Funny Thing Happened on the Way to the Forum</td> 
+    <td>Penn State</td>
+    <td>2011</td>
+  </tr>
+</table>
+
+<h2>Choral Experience </h2>
+<table>
+<tr>
+    <td>Tenor</td>
+    <td>Masterwork Festival Chorus (Mozart Requiem)</td> 
+    <td>Carnegie Hall (NYC)</td>
+    <td>2012</td>
+  </tr>
+<tr>
+    <td>Tenor II</td>
+    <td>Ivyside Vocal Ensemble</td> 
+    <td>Penn State</td>
+    <td>2011</td>
+  </tr>
+  </table>
+
+
+
+
